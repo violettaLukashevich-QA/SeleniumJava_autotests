@@ -1,5 +1,3 @@
-
-
 import java.time.Duration;
 
 import org.openqa.selenium.By;
